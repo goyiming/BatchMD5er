@@ -11,7 +11,7 @@
 5. 可自定义固定字符串
 
 ## GIF演示
-![演示GIF](https://github.com/goyiming/BatchMD5er/blob/main/%E6%BC%94%E7%A4%BAGIF.gif)
+![演示GIF](https://github.com/user-attachments/assets/8c5f2369-8f89-4419-b11b-923c8319d820)
 
 
 ## 解决的问题
